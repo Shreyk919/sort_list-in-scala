@@ -1,5 +1,5 @@
 # sort_list-in-scala
-Implement sorting in scala without using mutation
+
 
 
 
